@@ -18,6 +18,7 @@ The board is quite straight forward with a rectangular shape and two holes in th
 ## Bill of Materials (BOM)
 
 | Qty | Component | Value / Part Number | Footprint | Supplier Part |
+|:---:|-----------|---------------------|-----------|---------------|
 | 7 | Ceramic Capacitor | 1 µF | C0603 | — |
 | 3 | Ceramic Capacitor | 100 nF | C0603 | — |
 | 2 | Resistor | 1 kΩ | R0603 | — |
