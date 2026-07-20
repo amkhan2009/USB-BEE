@@ -16,7 +16,7 @@ The board is quite straight forward with a rectangular shape and two holes in th
 
 
 OSHWSH Link-
-**https://oshwlab.com/arsalan.lax/project_wmsouadc**
+ https://oshwlab.com/arsalan.lax/project_wmsouadc
 
 ## Bill of Materials (BOM)
 
